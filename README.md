@@ -20,3 +20,5 @@ Sitenin login sayfasının URL adresini girin ve gerekli paremetreleri sağladı
 ## XSS 
 Verdiğiniz url içerisindeki sorgu kısmına XSS payloadları uygular ve başarılı ise geri dönüş yapar.
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/816780da-31f7-45df-881e-bf5936bf1c1c)
+
+![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/3187608e-621d-4933-9333-dfca25cdee8a)
