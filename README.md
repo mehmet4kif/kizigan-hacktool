@@ -4,8 +4,7 @@
 BruteForce, SQL Injection, Admin Finder and XSS tools.
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/6b10a96e-02cd-49f6-b2d7-e80b2dd856cb)
 
-> :Buttons
-> > :Button label=Blog, url=https://www.mehmetakifaydogmus.com
+[![Button Click]][Link] 
 
 ## Kullanım
 
