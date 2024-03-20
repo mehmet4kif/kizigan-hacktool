@@ -42,7 +42,8 @@ Portswigger üzerinde bir XSS labında yaptığım deneme.
 
 
 ---
-
+# English
+---
 ![image](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/a7776873-fc9a-408f-ae4b-8f0a5f46a2c5)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmet4kif.kizigan-hacktool)
