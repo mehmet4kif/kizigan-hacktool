@@ -7,6 +7,7 @@ BruteForce, SQL Injection, Admin Finder and XSS tools.
 ## Kullanımı {#usage}
 
 ```git clone https://github.com/mehmet4kif/kizigan-hacktool.git```
+---
 ```python3 kizigan.py```
 
 ## Admin Panel Finder {#admin_finder}
