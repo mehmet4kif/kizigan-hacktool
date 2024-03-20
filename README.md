@@ -1,11 +1,15 @@
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/a7776873-fc9a-408f-ae4b-8f0a5f46a2c5)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmet4kif.kizigan-hacktool)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmet4kif.kizigan-hacktool) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/linkedin%20%20hesabım-blue)](https://www.linkedin.com/in/mehmetakifaydogmus/)
+[![GitHub license](https://img.shields.io/badge/instagram%20%20hesabım-purple)](https://www.instagram.com/makifaydogmus)
+[![GitHub license](https://img.shields.io/badge/email%20-red)](mailto:makif242106@gmail.com)
 # kizigan hacktool 
 BruteForce, SQL Injection, Admin Finder and XSS tools.
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/6b10a96e-02cd-49f6-b2d7-e80b2dd856cb)
 
-![Static Badge](https://img.shields.io/badge/in?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmehmetakifaydogmus%2F)
 
 ## Kullanım
 
