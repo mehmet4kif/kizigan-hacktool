@@ -1,10 +1,11 @@
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/a7776873-fc9a-408f-ae4b-8f0a5f46a2c5)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmet4kif.kizigan-hacktool)
 # kizigan hacktool 
 BruteForce, SQL Injection, Admin Finder and XSS tools.
 ![resim](https://github.com/mehmet4kif/kizigan-hacktool/assets/77950557/6b10a96e-02cd-49f6-b2d7-e80b2dd856cb)
 
-[![Button Click]][Link] 
+![Static Badge](https://img.shields.io/badge/in?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmehmetakifaydogmus%2F)
 
 ## Kullanım
 
