@@ -6,9 +6,9 @@ BruteForce, SQL Injection, Admin Finder and XSS tools.
 
 ## Kullanımı {#usage}
 
-```git clone https://github.com/mehmet4kif/kizigan-hacktool.git```
----
-```python3 kizigan.py```
+
+> ```git clone https://github.com/mehmet4kif/kizigan-hacktool.git```
+> ```python3 kizigan.py```
 
 ## Admin Panel Finder {#admin_finder}
 Program içerisinde bulunan admin panel finder ile penetrasyon testi yapacağınız sitedeki admin paneli veya sizin verdiğiniz wordlist içerisindeki dizinleri tarar ve sonuçları size getirir.
