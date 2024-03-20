@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehmet4kif.kizigan-hacktool) 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/mehmet4kif/kizigan-hacktool/blob/main/LICENSE.md)
 [![GitHub license](https://img.shields.io/badge/linkedin%20%20hesabım-blue)](https://www.linkedin.com/in/mehmetakifaydogmus/)
 [![GitHub license](https://img.shields.io/badge/instagram%20%20hesabım-purple)](https://www.instagram.com/makifaydogmus)
 [![GitHub license](https://img.shields.io/badge/email%20-red)](mailto:makif242106@gmail.com)
